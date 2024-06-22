@@ -1,6 +1,6 @@
 # semish2023
 
-O **SEMISH** é o principal fórum científico do ****Congresso da Sociedade Brasileira de Computação** (CSBC), em sua 50o edição, aconteceu em João Pessoa, PB, de 06 a 11 de agosto de 2023.
+O **SEMISH** é o principal fórum científico do **Congresso da Sociedade Brasileira de Computação** (CSBC), em sua 50o edição, aconteceu em João Pessoa, PB, de 06 a 11 de agosto de 2023.
 
 No ano de 2023, tive a oportunidade de submeter um artigo como parte do meu mestrado.
 
