@@ -11,7 +11,9 @@ Este repositório contém os arquivos e códigos utilizados no trabalho, além d
 Mais informações nos links abaixo:
 
 [https://csbc.sbc.org.br/2023/semish/](https://csbc.sbc.org.br/2023/semish/)
+
 [https://sol.sbc.org.br/index.php/semish/index](https://sol.sbc.org.br/index.php/semish/index)
+
 [https://sol.sbc.org.br/index.php/semish/article/view/25079/24900](https://sol.sbc.org.br/index.php/semish/article/view/25079/24900)
 
 Boa Sorte!
