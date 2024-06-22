@@ -16,4 +16,6 @@ Mais informações nos links abaixo:
 
 [https://sol.sbc.org.br/index.php/semish/article/view/25079/24900](https://sol.sbc.org.br/index.php/semish/article/view/25079/24900)
 
+[Argigo - Gerência e Alocação de Aulas Virtualizadas em Laboratórios de Informática: Uma Arquitetura Hı́brida](https://github.com/eurodrigolira/semish2023/blob/main/artigo-semish-2023.pdf)
+
 Boa Sorte!
